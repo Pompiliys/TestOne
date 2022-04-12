@@ -1,15 +1,2 @@
-Lab1/obj/Release/DesignTimeResolveAssemblyReferencesInput.cache
-Lab1/obj/Release/Lab1.csproj.AssemblyReference.cache
-Lab1/obj/Release/Lab1_MarkupCompile.cache
-Lab1/obj/Release/Lab1_MarkupCompile.lref
-Lab1/obj/Release/MainWindow.baml
-Lab1/obj/Release/DesignTimeResolveAssemblyReferences.cache
-.vs/Lab1/v16/.suo
-Lab1/obj/Release/Lab1.g.resources
-Lab1/obj/Release/Lab1.pdb
-Lab1/obj/Release/Lab1_MarkupCompile.cache
-Lab1/obj/Release/MainWindow.g.cs
-Lab1/obj/Release/MainWindow.g.i.cs
-Lab1/bin/Release/Lab1.pdb
-Lab1/obj/Release/Lab1.csproj.CoreCompileInputs.cache
-Lab1/obj/Release/Lab1.csproj.FileListAbsolute.txt
+Lab1/obj/Release/
+.vs/Lab1/
