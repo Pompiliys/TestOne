@@ -18,6 +18,8 @@
         <Label Content="2" HorizontalAlignment="Left" Margin="79,7,0,0" VerticalAlignment="Top"/>
         <Label Content="x +" HorizontalAlignment="Left" Margin="168,10,0,0" VerticalAlignment="Top"/>
         <Label Content="= 0" HorizontalAlignment="Left" Margin="262,10,0,0" VerticalAlignment="Top"/>
-        <TextBox x:Name="Output" HorizontalAlignment="Left" Height="79" Margin="11,63,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="LabD" Content="D = " HorizontalAlignment="Left" Margin="11,58,0,0" VerticalAlignment="Top" Width="63"/>
+        <Label x:Name="Labx1" Content="x1 = " HorizontalAlignment="Left" Margin="11,79,0,0" VerticalAlignment="Top" Width="63"/>
+        <Label x:Name="Labx2" Content="x2 = " HorizontalAlignment="Left" Margin="11,101,0,0" VerticalAlignment="Top" Width="63"/>
     </Grid>
 </Window>
