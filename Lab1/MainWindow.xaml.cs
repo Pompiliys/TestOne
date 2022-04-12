@@ -43,21 +43,22 @@ namespace Lab1
                 int c = Convert.ToInt32(TextBC.Text);
                 double D = 0;
                 D = (b * b) - (4 * a * c);
-                Output.Clear();
+                LabD.Content = "D = " + D;
 
-                if(D<0)
-                    Output.Text = "D = " +D+ " \nКорней нет";
+                if (D<0)
+                    LabD.Content = "D < 0";
                 if (D == 0)
                 {
                     x = -((b) / (2 * a));
-                    Output.Text = "D = " + D + " \n x = " + x;
+                    Labx2.Content = "x2 = " + x;
+                    Labx1.Content = "x1 = " + x;
                 }
                 if(D>0)
                 {
                     x = (-b + Math.Sqrt(D)) / (2 * a);
-                    Output.Text = "D = " + D + " \nx1 = " + x;
+                    Labx1.Content = "x1 = " + x;
                     x = (-b - Math.Sqrt(D)) / (2 * a);
-                    Output.Text += "\nx2 = " + x;
+                    Labx2.Content = "x2 = " + x;
                 }
 
             }
