@@ -1,0 +1,15 @@
+C:\Users\ahmer\source\repos\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\ahmer\source\repos\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\ahmer\source\repos\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\ahmer\source\repos\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\Users\ahmer\source\repos\Lab1\Lab1\obj\Debug\MainWindow.g.cs
+C:\Users\ahmer\source\repos\Lab1\Lab1\obj\Debug\App.g.cs
+C:\Users\ahmer\source\repos\Lab1\Lab1\obj\Debug\Lab1_MarkupCompile.cache
+C:\Users\ahmer\source\repos\Lab1\Lab1\obj\Debug\Lab1_MarkupCompile.lref
+C:\Users\ahmer\source\repos\Lab1\Lab1\obj\Debug\MainWindow.baml
+C:\Users\ahmer\source\repos\Lab1\Lab1\obj\Debug\Lab1.g.resources
+C:\Users\ahmer\source\repos\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\ahmer\source\repos\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Users\ahmer\source\repos\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\ahmer\source\repos\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\ahmer\source\repos\Lab1\Lab1\obj\Debug\Lab1.pdb
